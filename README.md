@@ -325,25 +325,25 @@ Combine the visualizations into a single interactive dashboard for easier data a
 
 Donut chart displaying the distribution of different weather conditions.
 
-![Weather Condition Distribution](images/weather-condition-distribution.png)
+![Weather Condition Distribution](images/Donut Chart (Weather condition distribution).png)
 
 ### 2. Cloud Coverage vs Solar Radiation
 
 Scatter plot showing the relationship between cloud coverage and solar radiation.
 
-![Cloud Coverage vs Solar Radiation](images/cloud-coverage-vs-solar-radiation.png)
+![Cloud Coverage vs Solar Radiation](images/Scatter Plot (Cloud coverage vs solar radiation).png)
 
 ### 3. Wind Speed Analysis
 
 Horizontal bar chart displaying wind speed measurements across the dataset.
 
-![Wind Speed Analysis](images/wind-speed-analysis.png)
+![Wind Speed Analysis](images/Horizontal Bar Chart (Wind speed analysis).png)
 
 ### 4. Temperature Distribution
 
 Histogram displaying the distribution of temperature values.
 
-![Temperature Distribution](images/temperature-distribution.png)
+![Temperature Distribution](images/Histogram (Temperature Distribution).png)
 
 ### 5. Full Interactive Dashboard
 
