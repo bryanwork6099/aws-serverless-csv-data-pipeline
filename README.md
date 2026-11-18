@@ -325,25 +325,25 @@ Combine the visualizations into a single interactive dashboard for easier data a
 
 Donut chart displaying the distribution of different weather conditions.
 
-![Weather Condition Distribution](images/Donut Chart (Weather condition distribution).png)
+![Weather Condition Distribution](images/Weather-Condition-Distribution.png)
 
 ### 2. Cloud Coverage vs Solar Radiation
 
 Scatter plot showing the relationship between cloud coverage and solar radiation.
 
-![Cloud Coverage vs Solar Radiation](images/Scatter Plot (Cloud coverage vs solar radiation).png)
+![Cloud Coverage vs Solar Radiation](images/Cloud-Coverage-VS-Solar-Radiation.png)
 
 ### 3. Wind Speed Analysis
 
 Horizontal bar chart displaying wind speed measurements across the dataset.
 
-![Wind Speed Analysis](images/Horizontal Bar Chart (Wind speed analysis).png)
+![Wind Speed Analysis](images/Wind-Speed-Analysis.png)
 
 ### 4. Temperature Distribution
 
 Histogram displaying the distribution of temperature values.
 
-![Temperature Distribution](images/Histogram (Temperature Distribution).png)
+![Temperature Distribution](images/Temperature-Distribution.png)
 
 ### 5. Full Interactive Dashboard
 
@@ -365,27 +365,6 @@ Through this project, I gained practical experience in:
 - Connecting Amazon S3 datasets to Amazon QuickSight.
 - Developing interactive dashboards and data visualizations.
 - Configuring IAM roles and permissions for AWS service integration.
-
-## 📁 Repository Structure
-
-```text
-aws-serverless-csv-data-pipeline/
-│
-├── README.md
-│
-├── docs/
-│   ├── lambda_function.py
-│   ├── Manifest.json
-│   └── data-processing.py
-│
-└── images/
-    ├── CSV-Data-Pipeline-Topology.png
-    ├── weather-condition-distribution.png
-    ├── cloud-coverage-vs-solar-radiation.png
-    ├── wind-speed-analysis.png
-    ├── temperature-distribution.png
-    └── weather-dashboard.png
-```
 
 ## 📝 Project Summary
 
