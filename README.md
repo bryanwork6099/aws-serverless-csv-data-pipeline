@@ -349,7 +349,7 @@ Histogram displaying the distribution of temperature values.
 
 The completed Amazon QuickSight dashboard combines all visualizations into a single analytical interface.
 
-![Full Interactive Dashboard](images/weather-dashboard.png)
+[View Full Interactive Dashboard (PDF)](images/Full-Interactive-Dashboard.pdf)
 
 ## 📚 Key Learning Outcomes
 
